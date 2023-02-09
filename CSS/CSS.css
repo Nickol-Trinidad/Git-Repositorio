@@ -1,0 +1,20 @@
+
+h1{
+    color: aliceblue;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: aliceblue;
+    text-decoration-style: double;
+    text-decoration-thickness: 5px;
+    text-shadow: 2px 2px 2px black;
+    text-transform: uppercase;
+}
+
+body{
+    background-color: brown;
+    color: aliceblue;
+    font-weight: bold;
+    
+}
